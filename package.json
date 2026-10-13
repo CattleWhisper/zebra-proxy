@@ -24,7 +24,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "usb": "^3.0.1"
+    "usb": "^3.2.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
