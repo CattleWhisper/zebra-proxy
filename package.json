@@ -22,16 +22,16 @@
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.6",
-    "dotenv": "^17.4.2",
+    "dotenv": "^18.0.8",
     "express": "^5.2.1",
-    "usb": "^3.0.1"
+    "usb": "^3.2.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@microsoft/eslint-formatter-sarif": "^3.0.0",
-    "eslint": "^10.7.0",
+    "eslint": "^10.13.0",
     "eslint-config-prettier": "^10.1.8",
     "nodemon": "^3.1.14",
-    "prettier": "^3.9.5"
+    "prettier": "^3.9.10"
   }
 }
